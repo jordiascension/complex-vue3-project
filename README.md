@@ -32,3 +32,12 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+Complex Vue3 project with this additional properties
+Babel
+Linter
+Router
+Vuex
+Linter
+Unit Testing
+E2E Testing
